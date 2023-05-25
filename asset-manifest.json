@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieAppReact/static/css/main.478dea47.css",
+    "main.js": "/MovieAppReact/static/js/main.3046ea9d.js",
+    "index.html": "/MovieAppReact/index.html",
+    "main.478dea47.css.map": "/MovieAppReact/static/css/main.478dea47.css.map",
+    "main.3046ea9d.js.map": "/MovieAppReact/static/js/main.3046ea9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478dea47.css",
+    "static/js/main.3046ea9d.js"
+  ]
+}
